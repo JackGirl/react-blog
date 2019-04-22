@@ -1,0 +1,19 @@
+.wrapper{
+    padding-top: 40px;
+  }
+  
+#wrapper{
+  overflow-y: auto;
+  height: calc(100vh - 80px);
+}
+
+
+@media  screen and (max-width:768px){
+  
+  #wrapper{
+      padding: 0;
+      width: 100%;
+  }
+
+  }
+

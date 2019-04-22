@@ -1,0 +1,46 @@
+[
+    {
+        "color": "magenta",
+        "title": "vue"
+    },
+    {
+        "color": "red",
+        "title": "react"
+    },
+    {
+        "color": "volcano",
+        "title": "angular"
+    },
+    {
+        "color": "orange",
+        "title": "java"
+    },
+    {
+        "color": "gold",
+        "title": "python"
+    },
+    {
+        "color": "lime",
+        "title": "c#"
+    },
+    {
+        "color": "cyan",
+        "title": "c"
+    },
+    {
+        "color": "#2db7f5",
+        "title": "c++"
+    },
+    {
+        "color": "#87d068",
+        "title": "spring"
+    },
+    {
+        "color": "#108ee9",
+        "title": "html"
+    },
+    {
+        "color": "purple",
+        "title": "node"
+    }
+]

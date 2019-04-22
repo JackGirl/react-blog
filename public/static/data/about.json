@@ -1,0 +1,29 @@
+{
+    "authorTitle":"javaWeb后端,也喜欢去了解一些前端技术",
+    "description":[
+        "博客使用react + antd  脚手架 create-react-app ",
+        "为了演示同的都是本地数据",
+        "样式基本跟博客一致 <a href='https://guodada.fun/' target='blank'>@郭大大</a>"
+    ],
+    "about":{
+        "name":"潇潇",
+        "concat":{
+            "QQ":"765944865",
+            "email":"18296117471@163.com"
+        },
+        "address":"杭州",
+        "skill":[
+            "熟练springboot、ssm 、 mybatis 、hibernate 等常用流行框架",
+            "有 redis 、mysql 使用经验 熟练sql",
+            "了解react 、熟练layui",
+            "熟悉安全框架 springsecurity shiro",
+            "有前后端分离后端单独开发经验",
+            "熟练运用IDEA进行java开发"
+        ],
+        "me":[
+            "喜欢逛知乎，看一些技术专栏、话题",
+            "偶尔打游戏，喜欢看书、听音乐",
+            "喜欢一些好看的前端UI库"
+        ]
+    }
+}

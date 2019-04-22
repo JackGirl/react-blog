@@ -1,0 +1,48 @@
+.header{
+    box-shadow:0 0 3px  2px rgba(1, 1, 1, 0.1);
+    overflow: hidden;
+    height: 64px;
+}
+
+ .header-left{
+  font-size: 20px;
+  text-align: center;
+}
+.header-left,.header-right{
+  vertical-align: ceter;
+  line-height:64px;
+  border:none;
+}
+
+.header-right{
+ text-align: right;
+ font-size: 12px;
+ right:0;
+}
+
+.header .header-menu-item{
+  height:64px;
+  line-height:64px
+} 
+
+.drop-menu{
+  display: none;
+}
+
+ @media screen and (max-width:425px){
+  .drop-menu{
+    text-align: right;
+    display: inline;
+    right: 0;
+  }
+}
+
+@media screen and (max-width:425px){
+  #header-left{
+    white-space: nowrap;
+    width: 100%;
+  }
+  #header-right{
+      display: none;
+  }
+}

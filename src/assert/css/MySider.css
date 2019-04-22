@@ -1,0 +1,85 @@
+.sider-wrapper{
+    border-right: 1px solid #e8e8e8;
+    overflow-y: auto;
+    height: calc(100vh - 80px);
+  }
+  
+  @media  screen and (max-width:768px){
+    #sider-wrapper { display:none; }
+  }
+
+  .avatar{
+    display: block;
+    width: 132px;
+    height: 132px;
+   /*  border-radius: 50%; */
+    margin: 0 auto;
+  }
+  
+  .name{
+    margin: 0;
+    padding: 20px 0 0;
+    font-weight: 700;
+    line-height: 1.5;
+    font-family: Lato,PingFang SC,Microsoft YaHei,sans-serif;
+    text-align: center;
+  }
+  
+  .customTitle{
+    text-align: center;
+    font-size: 14px;
+  }
+  
+  .link{
+  text-align: center;
+  margin-top:20px ;
+  }
+  
+  .link a {
+    padding: 3px;
+    color: inherit; 
+    margin: 0 10px 0 10px;
+  }
+  .link a:hover{
+    color: inherit;
+    background: rgba(233, 233, 233, 0.6); 
+    border-radius: 5px;
+  }
+  .recentList{
+    list-style: none;
+    padding: 0;
+  }
+  
+  .recentList li{
+    padding:0 20px 0 20px;
+  }
+  
+  .recentList li:hover a{
+    color: #1890ff;
+    font-size: 14px;
+    line-height: 32px;
+  }
+  
+  .recentList li:hover{
+    background:rgba(233, 233, 233, 0.3); 
+  }
+  
+  .recentList li a{
+    text-overflow: ellipsis;
+    overflow:hidden;
+    white-space: nowrap;
+    display: block;
+    color: #8590a6;
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 32px;
+    height: 32px;
+  }
+  
+  .tagWrapper{
+    padding-left: 20px;
+  }
+
+  .tagWrapper *{
+    margin: 0 10px 8px 0;
+  }

@@ -1,0 +1,20 @@
+.about-wrapper{
+    max-width: 80%;
+    padding: 0 40px 40px 40px;
+}
+@media screen and (max-width:768px){
+    .about-wrapper{
+        max-width: 100%;
+      
+    }
+}
+
+.author-title{
+    padding-left: 10px;
+}
+
+.about-list li{
+   padding: 5px;
+    font-size: 14px;
+    color:#555;
+}

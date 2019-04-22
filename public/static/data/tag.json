@@ -1,0 +1,61 @@
+[
+    {
+        "text": "vue",     
+        "color": "magenta",
+        "count":"10"
+    },
+    {
+        "text": "react",
+        "color": "#f50",
+        "count":0
+    },
+    {
+        "text": "vue",
+        "color": "red",
+        "count":10
+    },
+    {
+        "text": "angular",
+        "color": "#2db7f5"
+    },
+    {
+        "text": "vue",
+        "color": "volcano",
+        "count":19
+    },
+    {
+        "text": "c#",
+        "color": "#f50",
+        "count":17
+    },
+    {
+        "text": "mysql",
+        "color": "orange",
+        "count":25
+    },
+    {
+        "text": "springboot",
+        "color": "#2db7f5",
+        "count":99
+    },
+    {
+        "text": "node",
+        "color": "geekblue",
+        "count":15
+    },
+    {
+        "text": "mybatisplus",
+        "color": "#996",
+        "count":9
+    },
+    {
+        "text": "vue",
+        "color": "purple",
+        "count":1
+    },
+    {
+        "text": "redis",
+        "color": "#443",
+        "count":18
+    }
+]
